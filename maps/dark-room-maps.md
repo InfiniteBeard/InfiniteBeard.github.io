@@ -15,27 +15,27 @@ These maps were all created and provided by Sakura Tsubasa. Thanks for the hard 
 7. [Turtle Rock](#turtle-rock)
 
 ### Hyrule Castle Escape
-![Hyrule Castle Escape Dark Room Map](/_images/maps/dark-room-maps/hyrule-castle-dark-rooms.png)
+![Hyrule Castle Escape Dark Room Map](/images/maps/dark-room-maps/hyrule-castle-dark-rooms.png)
                                        
 
 ### Eastern Palace
-![Eastern Palace Dark Room Map Front](https://infinitebeard.github.io/_images/maps/dark-room-maps/eastern-dark-room-1.png)
+![Eastern Palace Dark Room Map Front](/images/maps/dark-room-maps/eastern-dark-room-1.png)
                             
-![Eastern Palace Dark Room Map Back](/_images/maps/dark-room-maps/eastern-dark-room-2.png)
+![Eastern Palace Dark Room Map Back](/images/maps/dark-room-maps/eastern-dark-room-2.png)
 
 ### Old Man Cave
-![Old Man Cave Dark Room Map](/_images/maps/dark-room-maps/old-man-cave-dark-room.png)
+![Old Man Cave Dark Room Map](/images/maps/dark-room-maps/old-man-cave-dark-room.png)
 
 ### Hyrule Tower
-![Hyrule Tower Dark Room Map 1](/_images/maps/dark-room-maps/aga-tower-dark-room-1.png)
-![Hyrule Tower Dark Room Map 2](/_images/maps/dark-room-maps/aga-tower-dark-room-2.png)
+![Hyrule Tower Dark Room Map 1](/images/maps/dark-room-maps/aga-tower-dark-room-1.png)
+![Hyrule Tower Dark Room Map 2](/images/maps/dark-room-maps/aga-tower-dark-room-2.png)
 
 ### Palace of Darkness
-![Palace of Darkness Dark Room Map 1](/_images/maps/dark-room-maps/palace-of-darkness-dark-room-1.png)
-![Palace of Darkness Dark Room Map 1](/_images/maps/dark-room-maps/palace-of-darkness-dark-room-2.png)
+![Palace of Darkness Dark Room Map 1](/images/maps/dark-room-maps/palace-of-darkness-dark-room-1.png)
+![Palace of Darkness Dark Room Map 1](/images/maps/dark-room-maps/palace-of-darkness-dark-room-2.png)
 
 ### Misery Mire
-![Misery Mire Dark Room Map](/_images/maps/dark-room-maps/misery-mire-dark-rooms.png)
+![Misery Mire Dark Room Map](/images/maps/dark-room-maps/misery-mire-dark-rooms.png)
 
 ### Turtle Rock
-![Turtle Rock Dark Room Map](/_images/maps/dark-room-maps/turtle-rock-dark-room.png)
+![Turtle Rock Dark Room Map](/images/maps/dark-room-maps/turtle-rock-dark-room.png)
