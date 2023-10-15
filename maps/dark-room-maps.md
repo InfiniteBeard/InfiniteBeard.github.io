@@ -16,10 +16,12 @@ These maps were all created and provided by Sakura Tsubasa. Thanks for the hard 
 
 ### Hyrule Castle Escape
 ![Hyrule Castle Escape Dark Room Map](/_images/maps/dark-room-maps/hyrule-castle-dark-rooms.png)
-<img src="/_images/maps/dark-room-maps/hyrule-castle-dark-rooms.png" alt="Hyrule Castle Dark Rooms Map">
+                                       
+
 ### Eastern Palace
-![Eastern Palace Dark Room Map 1](/_images/maps/dark-room-maps/eastern-dark-room-1.png)
-![Eastern Palace Dark Room Map 1](/_images/maps/dark-room-maps/eastern-dark-room-2.png)
+![Eastern Palace Dark Room Map Front](https://infinitebeard.github.io/_images/maps/dark-room-maps/eastern-dark-room-1.png)
+                            
+![Eastern Palace Dark Room Map Back](/_images/maps/dark-room-maps/eastern-dark-room-2.png)
 
 ### Old Man Cave
 ![Old Man Cave Dark Room Map](/_images/maps/dark-room-maps/old-man-cave-dark-room.png)
