@@ -26,7 +26,7 @@ This page contains item information about each of the dungeons.
 - **Total Keys**: 4
 - **Chest Keys**: 1
 - **Mob Keys**: 3
-- [View Dark Room Maps](dark-room-maps.md#hyrule-castle-escape)
+- [View Dark Room Maps](/maps/dark-room-maps.md#hyrule-castle-escape)
 
 ### Eastern Palace
 - **Item Locations**: 6
@@ -35,8 +35,8 @@ This page contains item information about each of the dungeons.
 - **Chest Keys**: 1
 - **Mob Keys**: 1
 - **Pot Keys**: 1
-- [View Full Dungeon Map](full-dungeon-maps.md#eastern-palace)
-- [View Dark Room Maps](dark-room-maps.md#eastern-palace)
+- [View Full Dungeon Map](/maps/full-dungeon-maps.md#eastern-palace)
+- [View Dark Room Maps](/maps/dark-room-maps.md#eastern-palace)
 
 ### Desert Palace
 - **Item Locations**: 6
@@ -44,22 +44,22 @@ This page contains item information about each of the dungeons.
 - **Total Keys**: 4
 - **Chest Keys**: 1
 - **Pot Keys**: 3
-- [View Full Dungeon Map](full-dungeon-maps.md#desert-palace)
+- [View Full Dungeon Map](/maps/full-dungeon-maps.md#desert-palace)
 
 ### Tower of Hera
 - **Item Locations**: 6 
 - **Non-Dungeon Items**: 2
 - **Total Keys**: 1
 - **Chest Keys**: 1
-- [View Full Dungeon Map](full-dungeon-maps.md#tower-of-hera)
+- [View Full Dungeon Map](/maps/full-dungeon-maps.md#tower-of-hera)
 
 ### Palace of Darkness
 - **Item Locations**: 14
 - **Non-Dungeon Items**: 5
 - **Total Keys**: 6
 - **Chest Keys**: 6
-- [View Full Dungeon Map](full-dungeon-maps.md#palace-of-darkness)
-- [View Dark Room Maps](dark-room-maps.md#palace-of-darkness)
+- [View Full Dungeon Map](/maps/full-dungeon-maps.md#palace-of-darkness)
+- [View Dark Room Maps](/maps/dark-room-maps.md#palace-of-darkness)
 
 ### Swamp Palace
 - **Item Locations**: 10
@@ -67,7 +67,7 @@ This page contains item information about each of the dungeons.
 - **Total Keys**: 5
 - **Chest Keys**: 1
 - **Pot Keys**: 4
-- [View Full Dungeon Map](full-dungeon-maps.md#swamp-palace)
+- [View Full Dungeon Map](/maps/full-dungeon-maps.md#swamp-palace)
 
 ### Skull Woods
 - **Item Locations**: 8
@@ -76,7 +76,7 @@ This page contains item information about each of the dungeons.
 - **Chest Keys**: 3
 - **Mob Keys**: 1
 - **Pot Keys**: 1
-- [View Full Dungeon Map](full-dungeon-maps.md#skull-woods)
+- [View Full Dungeon Map](/maps/full-dungeon-maps.md#skull-woods)
 
 ### Thieves Town
 - **Item Locations**: 8
@@ -84,7 +84,7 @@ This page contains item information about each of the dungeons.
 - **Total Keys**: 3
 - **Chest Keys**: 1
 - **Pot Keys**: 2
-- [View Full Dungeon Map](full-dungeon-maps.md#thieves-town)
+- [View Full Dungeon Map](/maps/full-dungeon-maps.md#thieves-town)
 
 ### Misery Mire
 - **Item Locations**: 8
@@ -93,8 +93,8 @@ This page contains item information about each of the dungeons.
 - **Chest Keys**: 3
 - **Mob Keys**: 1
 - **Pot Keys**: 2
-- [View Full Dungeon Map](full-dungeon-maps.md#misery-mire)
-- [View Dark Room Maps](dark-room-maps.md#misery-mire)
+- [View Full Dungeon Map](/maps/full-dungeon-maps.md#misery-mire)
+- [View Dark Room Maps](/maps/dark-room-maps.md#misery-mire)
 
 ### Ice Palace
 - **Item Locations**: 8
@@ -103,7 +103,7 @@ This page contains item information about each of the dungeons.
 - **Chest Keys**: 2
 - **Mob Keys**: 2
 - **Pot Keys**: 2
-- [View Full Dungeon Map](full-dungeon-maps.md#ice-palace)
+- [View Full Dungeon Map](/maps/full-dungeon-maps.md#ice-palace)
   
 ### Turtle Rock
 - **Item Locations**: 12
@@ -111,8 +111,8 @@ This page contains item information about each of the dungeons.
 - **Total Keys**: 6
 - **Chest Keys**: 4
 - **Mob Keys**: 2
-- [View Full Dungeon Map](full-dungeon-maps.md#turtle-rock)
-- [View Dark Room Maps](dark-room-maps.md#turtle-rock)
+- [View Full Dungeon Map](/maps/full-dungeon-maps.md#turtle-rock)
+- [View Dark Room Maps](/maps/dark-room-maps.md#turtle-rock)
 
 ### Gannon's Tower
 - **Item Locations**: 27
@@ -121,4 +121,4 @@ This page contains item information about each of the dungeons.
 - **Chest Keys**: 4
 - **Mob Keys**: 1
 - **Pot Keys**: 3
-- [View Full Dungeon Map](full-dungeon-maps.md#gannons-tower)
+- [View Full Dungeon Map](/maps/full-dungeon-maps.md#gannons-tower)
