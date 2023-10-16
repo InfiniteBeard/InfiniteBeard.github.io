@@ -32,7 +32,7 @@ These maps were all created and provided by Sakura Tsubasa. Thanks for the hard 
 
 ### Palace of Darkness
 ![Palace of Darkness Dark Room Map 1](/images/maps/dark-room-maps/palace-of-darkness-dark-room-1.png)
-![Palace of Darkness Dark Room Map 1](/images/maps/dark-room-maps/palace-of-darkness-dark-room-2.png)
+![Palace of Darkness Dark Room Map 2](/images/maps/dark-room-maps/palace-of-darkness-dark-rooms-2.png)
 
 ### Misery Mire
 ![Misery Mire Dark Room Map](/images/maps/dark-room-maps/misery-mire-dark-rooms.png)
