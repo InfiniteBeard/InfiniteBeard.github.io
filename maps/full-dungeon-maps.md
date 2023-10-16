@@ -5,8 +5,7 @@ title: Full Dungeon Maps
 [//]: # (Top Anchor)
 <a name="top"></a>
 
-
-These maps were all created and provided by Sakura Tsubasa. Thanks for the hard work Saku!
+This page contains full dungeon maps for all of the dungeons in the game. These maps were all created and provided by Sakura Tsubasa. Thanks for the hard work Saku!
 
 ## Table of Contents
 1. [Hyrule Castle](#hyrule-castle)
@@ -15,10 +14,10 @@ These maps were all created and provided by Sakura Tsubasa. Thanks for the hard 
 4. [Tower of Hera](#tower-of-hera)
 5. [Palace of Darkness](#palace-of-darkness)
 6. [Swamp Palace](#swamp-palace)
-7. [Thieves Town](#thieves-town)
-8. [Skull Woods](#skull-woods)
-9. [Misery Mire](#misery-mire)
-10. [Ice Palace](#ice-palace)
+7. [Skull Woods](#skull-woods)
+8. [Thieves Town](#thieves-town)
+9. [Ice Palace](#ice-palace)
+10. [Misery Mire](#misery-mire)
 11. [Turtle Rock](#turtle-rock)
 12. [Gannon's Tower](#gannons-tower)
 
@@ -96,18 +95,6 @@ These maps were all created and provided by Sakura Tsubasa. Thanks for the hard 
 ![Swamp Palace Basement 2 Map](/images/maps/full-dungeon-maps/swamp-palace/swamp-b2.png)
 
 [Back to Top](#top)
-### Thieves Town
-
-#### F1
-![Thieves Town Floor 1 Map](/images/maps/full-dungeon-maps/thieves-town/thieves-f1.png)
-
-#### B1
-![Thieves Town Basement 1 Map](/images/maps/full-dungeon-maps/thieves-town/thieves-b1.png)
-
-#### B2
-![Thieves Town Basement 2 Map](/images/maps/full-dungeon-maps/thieves-town/thieves-b2.png)
-
-[Back to Top](#top)
 ### Skull Woods
 
 #### B1
@@ -118,16 +105,16 @@ These maps were all created and provided by Sakura Tsubasa. Thanks for the hard 
 ![Skull Woods Basement 2 Map](/images/maps/full-dungeon-maps/skull-woods/skull-b2.png)
 
 [Back to Top](#top)
-### Misery Mire
+### Thieves Town
 
 #### F1
-![Misery Mire Floor 1 Map](/images/maps/full-dungeon-maps/misery-mire/misery-f1.png)
+![Thieves Town Floor 1 Map](/images/maps/full-dungeon-maps/thieves-town/thieves-f1.png)
 
 #### B1
-![Misery Mire Basement 1 Map](/images/maps/full-dungeon-maps/misery-mire/misery-b1.png)
+![Thieves Town Basement 1 Map](/images/maps/full-dungeon-maps/thieves-town/thieves-b1.png)
 
 #### B2
-![Misery Mire Basement 2 Map](/images/maps/full-dungeon-maps/misery-mire/misery-b2.png)
+![Thieves Town Basement 2 Map](/images/maps/full-dungeon-maps/thieves-town/thieves-b2.png)
 
 [Back to Top](#top)
 ### Ice Palace
@@ -155,6 +142,19 @@ These maps were all created and provided by Sakura Tsubasa. Thanks for the hard 
 
 #### B7
 ![Ice Palace Basement 7 Map](/images/maps/full-dungeon-maps/ice-palace/ice-b7.png)
+
+[Back to Top](#top)
+### Misery Mire
+
+#### F1
+![Misery Mire Floor 1 Map](/images/maps/full-dungeon-maps/misery-mire/misery-f1.png)
+
+#### B1
+![Misery Mire Basement 1 Map](/images/maps/full-dungeon-maps/misery-mire/misery-b1.png)
+
+#### B2
+![Misery Mire Basement 2 Map](/images/maps/full-dungeon-maps/misery-mire/misery-b2.png)
+
 
 [Back to Top](#top)
 ### Turtle Rock
