@@ -2,6 +2,8 @@
 layout: default
 title: Dungeon Info
 ---
+[//]: # (Top Anchor)
+<a name="top"></a>
 
 This page contains item information about each of the dungeons.
 
@@ -20,6 +22,7 @@ This page contains item information about each of the dungeons.
 11. [Turtle Rock](#turtle-rock)
 12. [Gannon's Tower](#gannons-tower)
 
+[Back to Top](#top)
 ### Hyrule Castle Escape
 - **Item Locations**: 8
 - **Non-Dungeon Items**: 6
@@ -28,7 +31,8 @@ This page contains item information about each of the dungeons.
 - **Mob Keys**: 3
 - [View Dark Room Maps](/maps/dark-room-maps.md#hyrule-castle-escape)
 
-### Eastern Palace
+[Back to Top](#top)
+### Eastern Palace 
 - **Item Locations**: 6
 - **Non-Dungeon Items**: 3
 - **Total Keys**: 2
@@ -38,6 +42,7 @@ This page contains item information about each of the dungeons.
 - [View Full Dungeon Map](/maps/full-dungeon-maps.md#eastern-palace)
 - [View Dark Room Maps](/maps/dark-room-maps.md#eastern-palace)
 
+[Back to Top](#top)
 ### Desert Palace
 - **Item Locations**: 6
 - **Non-Dungeon Items**: 2 
@@ -46,6 +51,7 @@ This page contains item information about each of the dungeons.
 - **Pot Keys**: 3
 - [View Full Dungeon Map](/maps/full-dungeon-maps.md#desert-palace)
 
+[Back to Top](#top)
 ### Tower of Hera
 - **Item Locations**: 6 
 - **Non-Dungeon Items**: 2
@@ -53,6 +59,7 @@ This page contains item information about each of the dungeons.
 - **Chest Keys**: 1
 - [View Full Dungeon Map](/maps/full-dungeon-maps.md#tower-of-hera)
 
+[Back to Top](#top)
 ### Palace of Darkness
 - **Item Locations**: 14
 - **Non-Dungeon Items**: 5
@@ -61,6 +68,7 @@ This page contains item information about each of the dungeons.
 - [View Full Dungeon Map](/maps/full-dungeon-maps.md#palace-of-darkness)
 - [View Dark Room Maps](/maps/dark-room-maps.md#palace-of-darkness)
 
+[Back to Top](#top)
 ### Swamp Palace
 - **Item Locations**: 10
 - **Non-Dungeon Items**: 6
@@ -69,6 +77,7 @@ This page contains item information about each of the dungeons.
 - **Pot Keys**: 4
 - [View Full Dungeon Map](/maps/full-dungeon-maps.md#swamp-palace)
 
+[Back to Top](#top)
 ### Skull Woods
 - **Item Locations**: 8
 - **Non-Dungeon Items**: 2
@@ -78,6 +87,7 @@ This page contains item information about each of the dungeons.
 - **Pot Keys**: 1
 - [View Full Dungeon Map](/maps/full-dungeon-maps.md#skull-woods)
 
+[Back to Top](#top)
 ### Thieves Town
 - **Item Locations**: 8
 - **Non-Dungeon Items**: 4
@@ -86,6 +96,7 @@ This page contains item information about each of the dungeons.
 - **Pot Keys**: 2
 - [View Full Dungeon Map](/maps/full-dungeon-maps.md#thieves-town)
 
+[Back to Top](#top)
 ### Misery Mire
 - **Item Locations**: 8
 - **Non-Dungeon Items**: 2
@@ -96,6 +107,7 @@ This page contains item information about each of the dungeons.
 - [View Full Dungeon Map](/maps/full-dungeon-maps.md#misery-mire)
 - [View Dark Room Maps](/maps/dark-room-maps.md#misery-mire)
 
+[Back to Top](#top)
 ### Ice Palace
 - **Item Locations**: 8
 - **Non-Dungeon Items**: 3
@@ -105,6 +117,7 @@ This page contains item information about each of the dungeons.
 - **Pot Keys**: 2
 - [View Full Dungeon Map](/maps/full-dungeon-maps.md#ice-palace)
   
+[Back to Top](#top)
 ### Turtle Rock
 - **Item Locations**: 12
 - **Non-Dungeon Items**: 5 
@@ -114,6 +127,7 @@ This page contains item information about each of the dungeons.
 - [View Full Dungeon Map](/maps/full-dungeon-maps.md#turtle-rock)
 - [View Dark Room Maps](/maps/dark-room-maps.md#turtle-rock)
 
+[Back to Top](#top)
 ### Gannon's Tower
 - **Item Locations**: 27
 - **Non-Dungeon Items**: 20
