@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Overworld Locations
@@ -16,13 +15,18 @@ title: Overworld Locations
 [Back to Top](#top)
 ### Light World Bomb Locations
 
+![Bomb Locations Dark World Map](/images/tips/bomb-locations-light-world-map.png)
+
 ![Bomb Locations Dark World](/images/tips/bomb-locations-light.png)
 
-![Bomb Locations Dark World Map](/images/tips/bomb-locations-light-world-map.png)
+
 
 [Back to Top](#top)
 ### Dark World Bomb Locations
-![Bomb Locations Dark World](/images/tips/bomb-locations-dark.png)
 
 ![Bomb Locations Dark World Map](/images/tips/bomb-locations-dark-world-map.png)
+
+![Bomb Locations Dark World](/images/tips/bomb-locations-dark.png)
+
+
 
