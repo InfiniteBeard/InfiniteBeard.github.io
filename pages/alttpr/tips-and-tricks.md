@@ -14,15 +14,15 @@ title: Tips and Tricks
 
 [Back to Top](#top)
 ### Archery Game
-![Archery Game Image](/images/tips/archery-game.png)
+![Archery Game Image](/images/alttpr/tips/archery-game.png)
 
 [Back to Top](#top)
 ### Graveyard Dark World Path
-![Graveyard Path Image](/images/tips/dark-graveyard-path.png)
+![Graveyard Path Image](/images/alttpr/tips/dark-graveyard-path.png)
 
 [Back to Top](#top)
 ### Hookshotless Bumper Cave
-![Hookshotless Bumper Cave](/images/tips/hookless-bumper-cave.gif)
+![Hookshotless Bumper Cave](/images/alttpr/tips/hookless-bumper-cave.gif)
 
 [Back to Top](#top)
 ### Tree Pulls

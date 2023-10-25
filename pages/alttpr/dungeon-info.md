@@ -29,7 +29,7 @@ This page contains item information about each of the dungeons.
 - **Total Keys**: 4
 - **Chest Keys**: 1
 - **Mob Keys**: 3
-- [View Dark Room Maps](/maps/dark-room-maps.md#hyrule-castle-escape)
+- [View Dark Room Maps](/pages/alttpr/maps/dark-room-maps.md#hyrule-castle-escape)
 
 [Back to Top](#top)
 ### Eastern Palace 
@@ -39,8 +39,8 @@ This page contains item information about each of the dungeons.
 - **Chest Keys**: 1
 - **Mob Keys**: 1
 - **Pot Keys**: 1
-- [View Full Dungeon Map](/maps/full-dungeon-maps.md#eastern-palace)
-- [View Dark Room Maps](/maps/dark-room-maps.md#eastern-palace)
+- [View Full Dungeon Map](/pages/alttpr/maps/full-dungeon-maps.md#eastern-palace)
+- [View Dark Room Maps](/pages/alttpr/maps/dark-room-maps.md#eastern-palace)
 
 [Back to Top](#top)
 ### Desert Palace
@@ -49,7 +49,7 @@ This page contains item information about each of the dungeons.
 - **Total Keys**: 4
 - **Chest Keys**: 1
 - **Pot Keys**: 3
-- [View Full Dungeon Map](/maps/full-dungeon-maps.md#desert-palace)
+- [View Full Dungeon Map](/pages/alttpr/maps/full-dungeon-maps.md#desert-palace)
 
 [Back to Top](#top)
 ### Tower of Hera
@@ -57,7 +57,7 @@ This page contains item information about each of the dungeons.
 - **Non-Dungeon Items**: 2
 - **Total Keys**: 1
 - **Chest Keys**: 1
-- [View Full Dungeon Map](/maps/full-dungeon-maps.md#tower-of-hera)
+- [View Full Dungeon Map](/pages/alttpr/maps/full-dungeon-maps.md#tower-of-hera)
 
 [Back to Top](#top)
 ### Palace of Darkness
@@ -65,8 +65,8 @@ This page contains item information about each of the dungeons.
 - **Non-Dungeon Items**: 5
 - **Total Keys**: 6
 - **Chest Keys**: 6
-- [View Full Dungeon Map](/maps/full-dungeon-maps.md#palace-of-darkness)
-- [View Dark Room Maps](/maps/dark-room-maps.md#palace-of-darkness)
+- [View Full Dungeon Map](/pages/alttpr/maps/full-dungeon-maps.md#palace-of-darkness)
+- [View Dark Room Maps](/pages/alttpr/maps/dark-room-maps.md#palace-of-darkness)
 
 [Back to Top](#top)
 ### Swamp Palace
@@ -75,7 +75,7 @@ This page contains item information about each of the dungeons.
 - **Total Keys**: 5
 - **Chest Keys**: 1
 - **Pot Keys**: 4
-- [View Full Dungeon Map](/maps/full-dungeon-maps.md#swamp-palace)
+- [View Full Dungeon Map](/pages/alttpr/maps/full-dungeon-maps.md#swamp-palace)
 
 [Back to Top](#top)
 ### Skull Woods
@@ -85,7 +85,7 @@ This page contains item information about each of the dungeons.
 - **Chest Keys**: 3
 - **Mob Keys**: 1
 - **Pot Keys**: 1
-- [View Full Dungeon Map](/maps/full-dungeon-maps.md#skull-woods)
+- [View Full Dungeon Map](/pages/alttpr/maps/full-dungeon-maps.md#skull-woods)
 
 [Back to Top](#top)
 ### Thieves Town
@@ -94,7 +94,7 @@ This page contains item information about each of the dungeons.
 - **Total Keys**: 3
 - **Chest Keys**: 1
 - **Pot Keys**: 2
-- [View Full Dungeon Map](/maps/full-dungeon-maps.md#thieves-town)
+- [View Full Dungeon Map](/pages/alttpr/maps/full-dungeon-maps.md#thieves-town)
 
 [Back to Top](#top)
 ### Misery Mire
@@ -104,8 +104,8 @@ This page contains item information about each of the dungeons.
 - **Chest Keys**: 3
 - **Mob Keys**: 1
 - **Pot Keys**: 2
-- [View Full Dungeon Map](/maps/full-dungeon-maps.md#misery-mire)
-- [View Dark Room Maps](/maps/dark-room-maps.md#misery-mire)
+- [View Full Dungeon Map](/pages/alttpr/maps/full-dungeon-maps.md#misery-mire)
+- [View Dark Room Maps](/pages/alttpr/maps/dark-room-maps.md#misery-mire)
 
 [Back to Top](#top)
 ### Ice Palace
@@ -115,7 +115,7 @@ This page contains item information about each of the dungeons.
 - **Chest Keys**: 2
 - **Mob Keys**: 2
 - **Pot Keys**: 2
-- [View Full Dungeon Map](/maps/full-dungeon-maps.md#ice-palace)
+- [View Full Dungeon Map](/pages/alttpr/maps/full-dungeon-maps.md#ice-palace)
   
 [Back to Top](#top)
 ### Turtle Rock
@@ -124,8 +124,8 @@ This page contains item information about each of the dungeons.
 - **Total Keys**: 6
 - **Chest Keys**: 4
 - **Mob Keys**: 2
-- [View Full Dungeon Map](/maps/full-dungeon-maps.md#turtle-rock)
-- [View Dark Room Maps](/maps/dark-room-maps.md#turtle-rock)
+- [View Full Dungeon Map](/pages/alttpr/maps/full-dungeon-maps.md#turtle-rock)
+- [View Dark Room Maps](/pages/alttpr/maps/dark-room-maps.md#turtle-rock)
 
 [Back to Top](#top)
 ### Gannon's Tower
@@ -135,4 +135,4 @@ This page contains item information about each of the dungeons.
 - **Chest Keys**: 4
 - **Mob Keys**: 1
 - **Pot Keys**: 3
-- [View Full Dungeon Map](/maps/full-dungeon-maps.md#gannons-tower)
+- [View Full Dungeon Map](/pages/alttpr/maps/full-dungeon-maps.md#gannons-tower)
