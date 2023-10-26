@@ -39,8 +39,8 @@ When a rupee pull is activated, one of the tiers listed below will be rewarded:
 |----------|----------|----------| 
 | 0 | 0 Kills | Nothing |
 | 1 | 1-3 Kills | ![Green Rupee](/images/items/green-rupee.png)x4 |
-| 3 | 4+ Kills & Have taken damage | ![Blue Rupee](/images/items/blue-rupee.png)x4 |
-| 4 | 4+ Kills & Have taken no damge | ![Red Rupee](/images/items/red-rupee.png)x4 |
+| 2 | 4+ Kills & Have taken damage | ![Blue Rupee](/images/items/blue-rupee.png)x4 |
+| 3 | 4+ Kills & Have taken no damge | ![Red Rupee](/images/items/red-rupee.png)x4 |
 
 
 #### Damage Sources

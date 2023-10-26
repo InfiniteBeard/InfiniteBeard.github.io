@@ -19,41 +19,41 @@ title: OoTR Dungeons
 
 ### Deku Tree
 
-![Deku Tree Map](/images/ootr/maps/child/dungeon/inside-the-deku-tree-child-map.jpg)
+![Deku Tree Map](/images/ootr/maps/child/dungeons/inside-the-deku-tree-child-map.jpg)
 
 
 ### Dodongos Cavern 
 
-![Dodongo's Cavern Map](/images/ootr/maps/child/dungeon/dodongo's-cavern-child-map.jpg)
+![Dodongo's Cavern Map](/images/ootr/maps/child/dungeons/dodongos-cavern-child-map.jpg)
 
 ### Jabu Jabu
 
-![Jabu Jabu Map](/images/ootr/maps/child/dungeon/inside-jabu--jabu's-belly-child-map.jpg)
+![Jabu Jabu Map](/images/ootr/maps/child/dungeons/inside-jabu--jabus-belly-child-map.jpg)
 
 ### Forest Temple
 
-![Forest Temple Map](/images/ootr/maps/adult/dungeon/forest-temple-adult-map.jpg)
+![Forest Temple Map](/images/ootr/maps/adult/dungeons/forest-temple-adult-map.jpg)
 
 ### Fire Temple
 
-![Fire Temple Map](/images/ootr/maps/adult/dungeon/fire-temple-adult-map.jpg)
+![Fire Temple Map](/images/ootr/maps/adult/dungeons/fire-temple-adult-map.jpg)
 
 ### Ice Cavern
 
-![Ice Cavern Map](/images/ootr/maps/adult/dungeon/ice-cavern-adult-map.jpg)
+![Ice Cavern Map](/images/ootr/maps/adult/dungeons/ice-cavern-adult-map.jpg)
 
 ### Water Temple
 
-![Water Temple Map](/images/ootr/maps/adult/dungeon/water-temple-adult-map.jpg)
+![Water Temple Map](/images/ootr/maps/adult/dungeons/water-temple-adult-map.jpg)
 
 ### Bottom of the Well
 
-![Bottom of the Well Map](/images/ootr/maps/child/dungeon/bottom-of-the-well-child-map)
+![Bottom of the Well Map](/images/ootr/maps/child/dungeons/bottom-of-the-well-child-map)
 
 ### Shadow Temple
 
-![Shadow Temple Map](/images/ootr/maps/adult/dungeon/shadow-temple-adult-map.jpg)
+![Shadow Temple Map](/images/ootr/maps/adult/dungeons/shadow-temple-adult-map.jpg)
 
 ### Spirit Temple
 
-![Shadow Temple Map](/images/ootr/maps/child/dungeon/spirit-temple-adult-map.jpg)
+![Shadow Temple Map](/images/ootr/maps/child/dungeons/spirit-temple-adult-map.jpg)
